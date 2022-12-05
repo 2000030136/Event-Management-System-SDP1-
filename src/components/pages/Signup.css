@@ -1,0 +1,23 @@
+.r1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 35px;
+}
+.r2{
+    width: 400px;
+  border: 1px solid rgb(160, 152, 152);
+  padding: 50px;
+  margin-left: 600px;
+  justify-content: center;
+  background: rgb(255, 242, 242);
+  border-radius: 35px;
+  margin-top: 50px;
+  border-style: groove;
+}
+.r3{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 20px;
+}

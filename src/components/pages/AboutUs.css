@@ -1,0 +1,15 @@
+.Full{
+    background-image: url('/images/about.jpg');
+    background-position:100%;
+    background-size: 950px;
+    height: 500px;
+    width: auto;
+
+    background-repeat: no-repeat;
+}
+.about-1{
+   font-size: 25px;
+   font-family:Arial, Helvetica, sans-serif;
+   color:turquoise;
+ 
+}

@@ -1,0 +1,23 @@
+
+.top{
+  background-image: url('/images/connect.jpg');
+  background-position: center;
+  background-size: 950px;
+  height: 500px;
+  width: auto;
+   padding: 200px; 
+  background-repeat: no-repeat;
+}
+
+.Connect1{
+  width: 400px;
+  border: 1px solid rgb(160, 152, 152);
+  padding: 50px;
+  margin-left: 550px;
+  justify-content: center;
+  background: rgb(255, 242, 242);
+  border-radius: 50px;
+}
+.Connect3{
+  margin-left: 70px;
+}

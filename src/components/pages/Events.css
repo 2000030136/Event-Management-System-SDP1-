@@ -1,0 +1,45 @@
+.event1{
+    background-position: center;
+    background-size: 2000px;
+    height: 800px;
+    width: auto;
+     padding: 250px; 
+    background-repeat: no-repeat;
+    background-image: url('/images/event.jpg');
+    font-size: 70px;
+    image-rendering: pixelated;
+}
+.event2{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(197, 72, 72);
+}
+.event3{
+    text-align: left;
+    margin-left: 200px;
+    font-size: 25px;
+    
+}
+.event4{
+    font-size: 30px;
+    margin-left: 200px;
+}
+.event5{
+    text-align: left;
+    margin-left: 200px;
+    font-size: 25px;
+
+}
+/* .event6{
+    text-align: center;
+    color: azure;
+    background-image: url('/images/img-6.jpg');
+    background-position: center;
+    background-size: 2000px;
+    height: 100px;
+    width: 100px;
+    padding: 150px;
+    background-repeat: no-repeat;
+    size: 30px;
+    font-size: 100px;
+} */
